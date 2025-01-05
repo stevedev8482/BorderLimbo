@@ -1,2 +1,2 @@
-This is plugin created by me for VK Group: BorderStudio \n
-Link: https://vk.com/borderstudio
+# BorderStudio Plugin  
+This is a plugin created by me for VK Group: [BorderStudio](https://vk.com/borderstudio)
